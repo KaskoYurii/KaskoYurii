@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Hi, I'm Yurii Kasko — Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1b1035"/>
+    </linearGradient>
+    <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="60" x2="660">
+      <stop offset="0" stop-color="#fe428e"/>
+      <stop offset="0.5" stop-color="#a77dff"/>
+      <stop offset="1" stop-color="#42d6c4"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;300 0;0 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <clipPath id="card"><rect width="900" height="240" rx="18"/></clipPath>
+    <clipPath id="k1"><rect class="type" x="60" y="128" width="264" height="34"/></clipPath>
+    <clipPath id="k2"><rect class="type d2" transform="scale(0 1)" x="60" y="128" width="330" height="34"/></clipPath>
+    <clipPath id="k3"><rect class="type d3" transform="scale(0 1)" x="60" y="128" width="475" height="34"/></clipPath>
+    <clipPath id="k4"><rect class="type d4" transform="scale(0 1)" x="60" y="128" width="370" height="34"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 22px; fill: #c9d1d9; }
+    .blob { animation: drift 14s ease-in-out infinite alternate; }
+    .b2 { animation-duration: 18s; animation-direction: alternate-reverse; }
+    @keyframes drift { to { transform: translate(120px, 40px); } }
+    .wave { transform-box: fill-box; transform-origin: 70% 80%; animation: wave 2.4s ease-in-out infinite; }
+    @keyframes wave { 0%,60%,100% { transform: rotate(0) } 10%,30% { transform: rotate(16deg) } 20%,40% { transform: rotate(-8deg) } }
+    /* typing: 4 phrases, 4s each, 16s loop */
+    .type { transform-box: fill-box; transform-origin: left; animation: type 16s infinite both; }
+    @keyframes type {
+      0% { transform: scaleX(0); animation-timing-function: steps(24, end); }
+      10%, 22% { transform: scaleX(1); }
+      25%, 100% { transform: scaleX(0); }
+    }
+    .cur { animation: cur 16s infinite both; }
+    @keyframes cur {
+      0% { opacity: 0; transform: translateX(0); }
+      0.1% { opacity: 1; transform: translateX(0); animation-timing-function: steps(24, end); }
+      10%, 22% { opacity: 1; transform: translateX(var(--w)); }
+      24.9% { opacity: 1; transform: translateX(var(--w)); }
+      25%, 100% { opacity: 0; transform: translateX(var(--w)); }
+    }
+    .d2 { animation-delay: 4s; } .d3 { animation-delay: 8s; } .d4 { animation-delay: 12s; }
+    .blink { animation: blink 0.8s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .bar { transform-box: fill-box; transform-origin: left; animation: bar 4s ease-in-out infinite alternate; }
+    @keyframes bar { from { transform: scaleX(0.15); } to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="240" fill="url(#bg)"/>
+    <circle class="blob" cx="720" cy="40" r="120" fill="#fe428e" opacity="0.35" filter="url(#blur)"/>
+    <circle class="blob b2" cx="560" cy="230" r="110" fill="#42d6c4" opacity="0.25" filter="url(#blur)"/>
+    <circle class="blob" cx="120" cy="250" r="90" fill="#a77dff" opacity="0.25" filter="url(#blur)"/>
+  </g>
+
+  <text class="sans" x="118" y="96" font-size="44" font-weight="800" fill="url(#name)">Hi, I'm Yurii Kasko</text>
+  <text class="sans wave" x="60" y="94" font-size="40">👋</text>
+
+  <text class="mono" x="60" y="152" clip-path="url(#k1)">&gt; Frontend Developer</text>
+  <text class="mono" x="60" y="152" clip-path="url(#k2)">&gt; Vue · TypeScript · Vite</text>
+  <text class="mono" x="60" y="152" clip-path="url(#k3)">&gt; building fast, responsive web apps</text>
+  <text class="mono" x="60" y="152" clip-path="url(#k4)">&gt; playing guitar after hours</text>
+
+  <g class="cur" style="--w:264px"><rect class="blink" x="62" y="132" width="11" height="24" fill="#fe428e"/></g>
+  <g class="cur d2" opacity="0" style="--w:330px"><rect class="blink" x="62" y="132" width="11" height="24" fill="#fe428e"/></g>
+  <g class="cur d3" opacity="0" style="--w:475px"><rect class="blink" x="62" y="132" width="11" height="24" fill="#fe428e"/></g>
+  <g class="cur d4" opacity="0" style="--w:370px"><rect class="blink" x="62" y="132" width="11" height="24" fill="#fe428e"/></g>
+
+  <rect class="bar" x="60" y="190" width="300" height="4" rx="2" fill="url(#name)"/>
+</svg>
