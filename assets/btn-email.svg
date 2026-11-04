@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 76" width="290" height="76" role="img" aria-label="Email">
+<defs><clipPath id="card"><rect width="290" height="76" rx="28"/></clipPath></defs>
+<style>@font-face{font-family:'Mbtn-email';src:url(data:font/woff2;base64,d09GMgABAAAAAAOMAA8AAAAABpAAAAMzAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwwBmA/U1RBVCoAVBEICoMwgmsBNgIkAyQLFAAEIAWDOgcgGzQFgC4KbGPoeCE2rSLDmOXLfDnPGN5izAgi//776rl4WgGRwZSMdkNFQsb/HYEZhPM/+3vvQCUZ8YlfSD8Pp9tpTlAoZJobGB16simpKMHZBAhCNi3qf7ln3BM309bCQCZ1iXchjk35Wg+Y/piGDz717Sl6CgN70Q0I79ykOmJH4FNDmxANK1AJkCQhJxQUhUC5RvwZDR1e0QCW8pA9gJfpJIrJ41yX7JLz4L92kVIEf+0lyKduqYUZ6fDOgjH7xHxxvkAdRjVxVl09rGtGyL32/8k/ofFAQKqanqIZKyGUCtRihEaMd6yglUaQBERt58Mk5FCLyY0+pgYClZRK8pophGAIGTKAP5x94Ul2NbucXRIwNhAioypCGagBlOAgzqISKgFCygghEJVaVTXNd65kU6iskuiadvjdt27FocPNFRWHZM36sE56lg/M2+9VHNl3pPLpN195NuPI608jqAOjk3Dw2qJNoSLf8+Y3Hu8J68433n5dP8kd4vnpFfnsYEL0r/1tsS8VDpfRobY5knDwSfXTX9q+Nmxj4cL2LXBbbD2oZtJDu57BOUODmit1W9Gy7rvW9dru1e6ju38bXSO4cmF6pGSCL5+GLPpfWtzuYlhLJ0PVnh93qOPZeQL6VNVX1efp7qf6VJXuSXvqWDeuqG1yurO0aWZpj6CWXnW7w13Tzd5LVhrqNdF3cin7vKRxh7kqg5r4QEXLrhbN15o3O2nRYlW+DVMUle7kCOgIvEifrj8okAxutHm4wYKqfX8rzeW+hM8vt2wGwBfVPvkZsr9yNdM9ihIIvlGYG8UCt/Rb07hcljpxTazq1FOoNx0D6kPkSu8U7oAMAmV6MlaNsQAAaRzezETky3CesxTKnZeSKq5IOd3MS3kNXIIF9AMoMuGsCCpFpyFqc4wU+SSkdOQYFJpSoDgx4sQK1IBGCFRNRFC0Tg05CVYOYIArcqko0STkFAKFqHJRSUohTbRoFIaiNxVUFIyEIJoCQyCF4ClEk3hshvr9Yh0CRYWHkIsTJUaMWOlqtKpTL129K3I6jJZArglBHjC+G4GVF62WNiNe6anqEQSMPBI8nAmQmR4AAAA=) format('woff2')}.M{font-family:'Mbtn-email',Onest,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.nudge{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translate(3px,-3px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g clip-path="url(#card)">
+<rect width="290" height="76" rx="38" fill="#2f3cff"/>
+<text x="32.0" y="46.0" class="M" font-size="20" fill="#fff" >Email</text>
+<circle cx="244" cy="38" r="24" fill="#fff"/>
+<g class="nudge"><path d="M237.5 44.5L250.5 31.5M241.7 31.5H250.5V40.3" fill="none" stroke="#2f3cff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

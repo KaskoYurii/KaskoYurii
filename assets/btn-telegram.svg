@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 76" width="290" height="76" role="img" aria-label="Telegram">
+<defs><clipPath id="card"><rect width="290" height="76" rx="28"/></clipPath></defs>
+<style>@font-face{font-family:'Mbtn-telegram';src:url(data:font/woff2;base64,d09GMgABAAAAAASIAA8AAAAACCgAAAQuAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgUAcMAZgP1NUQVQqAGQRCAqFHIQrATYCJAMkCxQABCAFgzoHIBueBlFUUYIhviwwDxvhD7E2DbHS1hgbji095LD9kBcO5kfGOGTNW6acIh6e1/v/1j7JU3I/YAxZAupYCZVcwegmV2vbdyBpZq5hkixJNY+vdoLUQsikRMhEhgL4zw4y3GolHhink3UL7Q4FVgTb106G/PUmS11ISei6htmwaX9zf/kZOKeun42JFzldbxoNEtHWYXg6SKRHgY3gYFGgcN1kAMWJpEapU5/wcBSoAZIQGoRAYbAhYe78xQHKe87BAZSP7qIRlInw46g4sg9HkOEWySVxUug9rSZHaI2T0+qrnyVjiZhuRVAPUL31kjcGUiOqf8EZssPVIE1VMzQGvYLm6Qx1n6A+VAeuECqg5UCeRqaNJNJlwgVLxontBv6gGvBeuWm3h7eecPba/2+TPxsrICC1SM+jp6wQGgXa4tAVf9YBh3KNjyHaFd0KkJChLSHovqKVQEt5Ano6UJlsIVw1QsFtq+9777ve+dY3Cvj9EFWlBUITaA0U+ICoAXJASG3fxa/Gvi26N/VtCRnWGl1XRAu5fN1l7/LDccnH3mV5SdtHXdZnGcXdIO+Vl5tJxfqHXsENl78OEd7cyVnAxXkrI8ryNg2p8J2eN9xCqd1Zr6+V44Bd3qO65ZKHL/xlVDoyY73LW9fxPkF+xH2ERWws9EGni/mWzV77JY9jitXFdsu6Mn8Eej34zCnP/eDbZyax7JK0PH+65uKoThze9+8bl/isdQ++bYtURkD/C77bfnLq+Mq7Vb6U+80i234PHCN39xbGYUYeEEf+9evY/XjEBfn9/yxuLQ9Jd9KWhXGKQXN2/Z92D7yb14fY3mLMx4PbM/quBvSvX32ql2N9eLhzY6VPhHOCyjmAmwIu23etFH1dMqTT7aA1jWfzFqQLvTyE1uMDVBXWbrq/j5N4hx5dsMEF23lUR4e5KhMn46r76lw/fX1AsKW5MCBCHylYPeeUp02j20/MzYzV3/ZYrNHy/M5HjjnqvFilYfvvm/L8uc+b0uLkeY6/QzqYfOV2TqRyvkuASRjvENmopjhB/8M/v71j90YNOfC9odvgpeazurMBkxYn6udOEyx1L9usrBZY/OTiAODxf3ARCCSzv/XcXTtaTP2nUci+h29v64MA37X85E9F1UJok55HvQSClZGTLZJTEDSBzfitpjRUOS2WS2PU03TVdFjV15RskUlcakq0BwJNxiYeCduanEoQeRNuQpWHwk3ypLl75JmRXvJcZx+wDv0B9dRorRDUYujx7eRjorlY4glz2RwUMtAz0F+RoFOOrEVMhJC/gcU8E6yvnmIoRwwjkFoiPyqR8rGuLptLupbRdOhioS7CFUqoAkRXXGawXvIXd0w2JqDCBjp6evomNq529iYBI9qj0akMiU9M2OqWHkDJO03oPTMb9VR7ppBrJhYwCED1mNEAAAA=) format('woff2')}.M{font-family:'Mbtn-telegram',Onest,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.nudge{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translate(3px,-3px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g clip-path="url(#card)">
+<rect width="290" height="76" rx="38" fill="#ecedef"/>
+<text x="32.0" y="46.0" class="M" font-size="20" fill="#000000" >Telegram</text>
+<circle cx="244" cy="38" r="24" fill="#2f3cff"/>
+<g class="nudge"><path d="M237.5 44.5L250.5 31.5M241.7 31.5H250.5V40.3" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

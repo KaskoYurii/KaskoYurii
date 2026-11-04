@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Stack: Vue 3, Nuxt, React, Next.js, TypeScript, Pinia, Vuex, Vuetify, Quasar, Tailwind CSS, TanStack Query, Chart.js, AmCharts, WebSocket, Node.js, PostgreSQL, Supabase, Vite, Vitest, Docker, Git, CI/CD, Figma, Cursor, Claude Code, Codex">
+<defs><linearGradient id="fadeL"><stop offset="0" stop-color="#2f3cff"/><stop offset="1" stop-color="#2f3cff" stop-opacity="0"/></linearGradient><linearGradient id="fadeR"><stop offset="0" stop-color="#2f3cff" stop-opacity="0"/><stop offset="1" stop-color="#2f3cff"/></linearGradient><clipPath id="card"><rect width="1200" height="460" rx="28"/></clipPath></defs>
+<style>@font-face{font-family:'Dstack';src:url(data:font/woff2;base64,d09GMgABAAAAAARoAA8AAAAACLgAAAQQAAGzdQAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgVocXAZgP1NUQVQqAFwRCAqEfIQ0ATYCJAMgCxIABCAFhC4HIBtVBwgeBW47M54kOJJ+64K6IEenCJ72S+ft/rsAkUsK7JAVoiN0ZdXa6grJwkS4CgmsAO0e4VkTlHkjR/UkRhU3D4P5TwDw/987/RPk62xa2PFBgUY25j0PpD0F1sAssDGB460B51M3pp8ox4A182JWX0+S5cx3rcwMoR8p0ApIQqgJgWazIhCb0nJKoNWZnnYjtDrPIDO0QkL5LxDnBLsZ5AiEStIoNErOInHRIKhroPzyK1B+pbzzOZS/PgWg/PAzAOV5KH9W+I3oiym/5UGCr31MHmwAixVSEX8WI39dMidWU1MVND2v0zB0FQzdiKoQWyyQaPqYadSWHuEVAHbK4zioolQZhz/AnvV5APMmofy4UFTfowsQkFand5hECKFRoBeGUfgtjRZhJJKAaMmTAAkZvQiBXqRtQLtGSd2kYgyOASqw31y+WmehBWaaWBSAcPo7SHV10Ak04w0xDUAFCFlIQmJxY7NOWk4ODXUop2buvUqNvo4N3FVWdu0aNvD6dWr01aulyln7rilHXYG7O1NLr169CnevXFGOunataVl5WTlVUVl1ZXb6Ig0DNp7F7PXLXedduh8+s8HCOd+Fec1zYgPw+MnNu3JZGkqrlLUcKq9sVI2Vl1PQotndvUfiuAcseaIZu6B/sL8tWvZWL/SWo5j59yZyWWYrVWpOV6e2exLIwcqF1ATEFdYal4fbzatieSuZ9SY0Ibl5QFxG5y5tVk+ZQBlkQ1TRZUkF9T3WJKHumxOFbhA8fLpjYceCDmffuXV267KrM1VVMKJfVlFx/+y0EVU15836ZxUX9cssHFFa4/7S5uqW7BS5dWtU/45urrZX8OO/LI/pNieRNSzJrh5ZWV09fEmOgZ2TyIiy/Mfz0gNDPPf98fX9vc8zJD1kFgy+vuLnePMl5gz+dNfrdejdKFB7wtmCudWDZr9Y8WJ81Pkkrz8zV/5kmoWx/aLjLDnrOGZE/CHdFfPXrbg5SzudaLySaRp6cIDbMMRr8azC92F905h/ciJ/g7drxw0BfO28+wnq5f1WAkddAsH/gMcb9r0HYNTujfksJOZKcM3p0CVLjaTfViQDSJ2s3ygbLUd0CbKsyVWEqJrwDFjq0G2dOmk3r85WOaeuTAeprtkf7lAfU300otIaTy80WnTHKtjIwqonOx0NLYSmEkhFhVZCS0ArZcayEJnxBDxaATsLPQEHoSUSIVoWdg40T1oIYuUQJUAADR25SMTyx7Ew7Z9uYaFhJFCzMEMcAojRnbzySK+IQENkxLAL4i9coCDR8iTKE+1t49crkYZofxmhHNLlbKXjzBOmtlUBI7lPtUD+IvlTieCPJ+gmlA+N3KpKpHCReLUJw+WE75FYqh4QO0YSCyMeAZQ5LaMA) format('woff2')}.D{font-family:'Dstack',Unbounded,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}@font-face{font-family:'Bstack';src:url(data:font/woff2;base64,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) format('woff2')}.B{font-family:'Bstack',Onest,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}@font-face{font-family:'Mstack';src:url(data:font/woff2;base64,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) format('woff2')}.M{font-family:'Mstack',Onest,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.m0{animation:m0 27.2s linear infinite}@keyframes m0{from{transform:translateX(0)}to{transform:translateX(-1223.0px)}}
+.m1{animation:m1 34.9s linear infinite reverse}@keyframes m1{from{transform:translateX(0)}to{transform:translateX(-1571.4px)}}
+.m2{animation:m2 24.6s linear infinite}@keyframes m2{from{transform:translateX(0)}to{transform:translateX(-1106.6px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="460" fill="#2f3cff"/>
+<text x="48.0" y="86.0" class="D" font-size="46" fill="#fff" >Stack</text>
+<text x="1152.0" y="84.0" class="B" font-size="18" fill="#fff" text-anchor="end" fill-opacity=".8">26 tools, from UI to database to AI</text>
+<g class="m0">
+<rect x="48.0" y="144" width="116.4" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="76.0" y="186.0" class="M" font-size="22" fill="#2f3cff" >Vue 3</text>
+<rect x="176.4" y="144" width="105.6" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="204.4" y="186.0" class="M" font-size="22" fill="#2f3cff" >Nuxt</text>
+<rect x="294.0" y="144" width="116.3" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="322.0" y="186.0" class="M" font-size="22" fill="#2f3cff" >React</text>
+<rect x="422.3" y="144" width="128.4" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="450.3" y="186.0" class="M" font-size="22" fill="#fff" >Next.js</text>
+<rect x="562.7" y="144" width="170.7" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="590.7" y="186.0" class="M" font-size="22" fill="#2f3cff" >TypeScript</text>
+<rect x="745.4" y="144" width="106.4" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="773.4" y="186.0" class="M" font-size="22" fill="#2f3cff" >Pinia</text>
+<rect x="863.8" y="144" width="108.9" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="891.8" y="186.0" class="M" font-size="22" fill="#fff" >Vuex</text>
+<rect x="984.7" y="144" width="132.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1012.7" y="186.0" class="M" font-size="22" fill="#fff" >Vuetify</text>
+<rect x="1128.7" y="144" width="130.2" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1156.7" y="186.0" class="M" font-size="22" fill="#fff" >Quasar</text>
+<rect x="1271.0" y="144" width="116.4" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="1299.0" y="186.0" class="M" font-size="22" fill="#2f3cff" >Vue 3</text>
+<rect x="1399.4" y="144" width="105.6" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="1427.4" y="186.0" class="M" font-size="22" fill="#2f3cff" >Nuxt</text>
+<rect x="1516.9" y="144" width="116.3" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="1544.9" y="186.0" class="M" font-size="22" fill="#2f3cff" >React</text>
+<rect x="1645.3" y="144" width="128.4" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1673.3" y="186.0" class="M" font-size="22" fill="#fff" >Next.js</text>
+<rect x="1785.7" y="144" width="170.7" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="1813.7" y="186.0" class="M" font-size="22" fill="#2f3cff" >TypeScript</text>
+<rect x="1968.4" y="144" width="106.4" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="1996.4" y="186.0" class="M" font-size="22" fill="#2f3cff" >Pinia</text>
+<rect x="2086.8" y="144" width="108.9" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2114.8" y="186.0" class="M" font-size="22" fill="#fff" >Vuex</text>
+<rect x="2207.7" y="144" width="132.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2235.7" y="186.0" class="M" font-size="22" fill="#fff" >Vuetify</text>
+<rect x="2351.7" y="144" width="130.2" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2379.7" y="186.0" class="M" font-size="22" fill="#fff" >Quasar</text>
+</g>
+<g class="m1">
+<rect x="-475.8" y="236" width="193.5" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="-447.8" y="278.0" class="M" font-size="22" fill="#fff" >Tailwind CSS</text>
+<rect x="-270.3" y="236" width="224.1" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="-242.3" y="278.0" class="M" font-size="22" fill="#fff" >TanStack Query</text>
+<rect x="-34.2" y="236" width="136.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="-6.2" y="278.0" class="M" font-size="22" fill="#fff" >Chart.js</text>
+<rect x="114.6" y="236" width="158.9" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="142.6" y="278.0" class="M" font-size="22" fill="#fff" >AmCharts</text>
+<rect x="285.5" y="236" width="176.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="313.5" y="278.0" class="M" font-size="22" fill="#fff" >WebSocket</text>
+<rect x="474.3" y="236" width="135.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="502.3" y="278.0" class="M" font-size="22" fill="#fff" >Node.js</text>
+<rect x="621.3" y="236" width="181.7" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="649.3" y="278.0" class="M" font-size="22" fill="#fff" >PostgreSQL</text>
+<rect x="815.0" y="236" width="159.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="843.0" y="278.0" class="M" font-size="22" fill="#fff" >Supabase</text>
+<rect x="986.1" y="236" width="97.5" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="1014.1" y="278.0" class="M" font-size="22" fill="#2f3cff" >Vite</text>
+<rect x="1095.6" y="236" width="193.5" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1123.6" y="278.0" class="M" font-size="22" fill="#fff" >Tailwind CSS</text>
+<rect x="1301.0" y="236" width="224.1" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1329.0" y="278.0" class="M" font-size="22" fill="#fff" >TanStack Query</text>
+<rect x="1537.1" y="236" width="136.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1565.1" y="278.0" class="M" font-size="22" fill="#fff" >Chart.js</text>
+<rect x="1686.0" y="236" width="158.9" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1714.0" y="278.0" class="M" font-size="22" fill="#fff" >AmCharts</text>
+<rect x="1856.9" y="236" width="176.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1884.9" y="278.0" class="M" font-size="22" fill="#fff" >WebSocket</text>
+<rect x="2045.7" y="236" width="135.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2073.7" y="278.0" class="M" font-size="22" fill="#fff" >Node.js</text>
+<rect x="2192.7" y="236" width="181.7" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2220.7" y="278.0" class="M" font-size="22" fill="#fff" >PostgreSQL</text>
+<rect x="2386.4" y="236" width="159.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2414.4" y="278.0" class="M" font-size="22" fill="#fff" >Supabase</text>
+<rect x="2557.4" y="236" width="97.5" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="2585.4" y="278.0" class="M" font-size="22" fill="#2f3cff" >Vite</text>
+</g>
+<g class="m2">
+<rect x="48.0" y="328" width="116.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="76.0" y="370.0" class="M" font-size="22" fill="#fff" >Vitest</text>
+<rect x="176.8" y="328" width="130.6" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="204.8" y="370.0" class="M" font-size="22" fill="#fff" >Docker</text>
+<rect x="319.4" y="328" width="85.4" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="347.4" y="370.0" class="M" font-size="22" fill="#fff" >Git</text>
+<rect x="416.8" y="328" width="120.5" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="444.8" y="370.0" class="M" font-size="22" fill="#fff" >CI/CD</text>
+<rect x="549.3" y="328" width="119.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="577.3" y="370.0" class="M" font-size="22" fill="#fff" >Figma</text>
+<rect x="680.3" y="328" width="125.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="708.3" y="370.0" class="M" font-size="22" fill="#fff" >Cursor</text>
+<rect x="818.1" y="328" width="189.5" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="846.1" y="370.0" class="M" font-size="22" fill="#2f3cff" >Claude Code</text>
+<rect x="1019.6" y="328" width="123.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1047.6" y="370.0" class="M" font-size="22" fill="#fff" >Codex</text>
+<rect x="1154.6" y="328" width="116.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1182.6" y="370.0" class="M" font-size="22" fill="#fff" >Vitest</text>
+<rect x="1283.4" y="328" width="130.6" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1311.4" y="370.0" class="M" font-size="22" fill="#fff" >Docker</text>
+<rect x="1425.9" y="328" width="85.4" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1453.9" y="370.0" class="M" font-size="22" fill="#fff" >Git</text>
+<rect x="1523.3" y="328" width="120.5" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1551.3" y="370.0" class="M" font-size="22" fill="#fff" >CI/CD</text>
+<rect x="1655.9" y="328" width="119.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1683.9" y="370.0" class="M" font-size="22" fill="#fff" >Figma</text>
+<rect x="1786.9" y="328" width="125.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="1814.9" y="370.0" class="M" font-size="22" fill="#fff" >Cursor</text>
+<rect x="1924.7" y="328" width="189.5" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="1952.7" y="370.0" class="M" font-size="22" fill="#2f3cff" >Claude Code</text>
+<rect x="2126.1" y="328" width="123.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2154.1" y="370.0" class="M" font-size="22" fill="#fff" >Codex</text>
+<rect x="2261.1" y="328" width="116.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2289.1" y="370.0" class="M" font-size="22" fill="#fff" >Vitest</text>
+<rect x="2390.0" y="328" width="130.6" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2418.0" y="370.0" class="M" font-size="22" fill="#fff" >Docker</text>
+<rect x="2532.5" y="328" width="85.4" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2560.5" y="370.0" class="M" font-size="22" fill="#fff" >Git</text>
+<rect x="2629.9" y="328" width="120.5" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2657.9" y="370.0" class="M" font-size="22" fill="#fff" >CI/CD</text>
+<rect x="2762.4" y="328" width="119.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2790.4" y="370.0" class="M" font-size="22" fill="#fff" >Figma</text>
+<rect x="2893.4" y="328" width="125.8" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="2921.4" y="370.0" class="M" font-size="22" fill="#fff" >Cursor</text>
+<rect x="3031.2" y="328" width="189.5" height="68" rx="34" fill="#fff" stroke="#fff" stroke-opacity="1" stroke-width="1.5"/>
+<text x="3059.2" y="370.0" class="M" font-size="22" fill="#2f3cff" >Claude Code</text>
+<rect x="3232.7" y="328" width="123.0" height="68" rx="34" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="1.5"/>
+<text x="3260.7" y="370.0" class="M" font-size="22" fill="#fff" >Codex</text>
+</g>
+<rect x="0" y="130" width="90" height="330" fill="url(#fadeL)"/>
+<rect x="1110" y="130" width="90" height="330" fill="url(#fadeR)"/>
+</g>
+</svg>

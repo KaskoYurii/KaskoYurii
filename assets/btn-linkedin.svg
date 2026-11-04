@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 76" width="290" height="76" role="img" aria-label="LinkedIn">
+<defs><clipPath id="card"><rect width="290" height="76" rx="28"/></clipPath></defs>
+<style>@font-face{font-family:'Mbtn-linkedin';src:url(data:font/woff2;base64,d09GMgABAAAAAAP8AA8AAAAAB3AAAAOjAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgRIcMAZgP1NUQVQqAGQRCAqEAIMdATYCJAMsCxgABCAFgzoHIBvwBSAuA2xjivRFFolmMWjIasUVSB62Y5/+i7dCLvh/Wvud+2b2y+wi7pEm4olQtWmXpJGQCdVKo2on/+v9yz0IMfBOeP8CF02KBirjHioz6e0qpQmi/X6z91GtZpVKJdNNmlaTei80GqWLpeqVagcbcJDhgA84IDQ0r10e2BbnlLaHY/rE+A3ssKeU340xsqIq/59x/rh3+sdY2cbEuwQTHJumbsFobMPA3n2rfR5QRvEGsw0q6TbBR6JnlDVnVH87AgkAMEYikpYhAkG3RJS5/NJakG4NYQtId7tcNpCiAnJ/AbSDsA2YQEA8k2GCdiQJD6QYiRjjBF5gylFBLU8kDgCIeAbEiYgAGIGgV/ihcHfaPQMQnwatEWiwPDWA+Xm0CtF+IFKewMpCdQ0cGGKrHf2PvwXzAAhgnfYKjVhEMgRKkUAt8oHe4CIBYARQvzUCAAYcKEUhUIpqBVBIiAIaFSmFGJnZikWqFyhfLJ2SL5keKyWA6OBCJ5AYQDkggBt4gcRrwHO0C2GLQXWpsiJ3FjWvKuFEsbeHyeMgW5aubDuu1vsucXzYWtqtthJXW1fWJeSTweVNeU/Mmtiv8e6JSebqZ7jqDtl40TD2w40Du1pDGbB4m1PbxK5nQ9zaXD1uMztILe6qVBnI7iHKE3A1hasxdHnrezlbMv54AQcGUUOlvjB6qKQ8bticX+U+2R19HC9PQVZgxG3zXuTVwFxwqHvB5eDIevVciOfbT/wbqnFO8mBlZeowzqtKbQpOLXJro3DKa7H3+1VVV9Prw4eTaqdXTpbX8b4U7DyuI6VzWACjL8cRd37EfknfXt9Cd2Y7MT27ZOKmZr4+y8ea6zMscDs1T3E9u3ULUf8+OtXctNXUeD7SvEndBHSQEg6BCugBfKTXkwIUwIw9JJW/NTz1vwn3A3xd2wgA312f35rlabMnSDEAwl8s2jYBacQTuwHFqRdpaKhIJc1rgoCU7vEpapM30ni6kAOQawoQ60BWiEyQXFqXdYhCdVnggTAkwUPI5HsOOYM2Ql61GzQiv5CUEOIwQRK9xyhDGInksHMYghnpGbh4ihYpWhRPtQwQTxVsEILgVgmzM0F6bHGWPi4GdhjBU6BQlrs7EJJFiKBnJEF9uoXrYWfdQIh1rBy6WBAi2JWpC1LyIVVD9PpYdMGihYsUKUqKSk2q1UhJmBXmmc1oPH31EFwwlp7wFB9UsN4AXdRZ1UCsjLLZWfSiACDXNgMA) format('woff2')}.M{font-family:'Mbtn-linkedin',Onest,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.nudge{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translate(3px,-3px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<g clip-path="url(#card)">
+<rect width="290" height="76" rx="38" fill="#ecedef"/>
+<text x="32.0" y="46.0" class="M" font-size="20" fill="#000000" >LinkedIn</text>
+<circle cx="244" cy="38" r="24" fill="#2f3cff"/>
+<g class="nudge"><path d="M237.5 44.5L250.5 31.5M241.7 31.5H250.5V40.3" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

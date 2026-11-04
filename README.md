@@ -1,52 +1,31 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hi, I'm Yurii Kasko — Frontend Developer" />
-</p>
+<a href="https://kasko-yurii.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Yurii Kasko — Web engineer, Ukraine. Open to remote web engineering roles and contracts. I build interfaces for complex web products, from component systems to frontend architecture." /></a>
+
+<img src="assets/numbers.svg" width="100%" alt="5+ years from idea to production · 4 teams since 2021 · 3 live products · 26 tools in the stack" />
+
+<img src="assets/projects.svg" width="100%" alt="Projects" />
+
+<a href="https://app.unifiedone.com/signup"><img src="assets/project-unifiedone.svg" width="100%" alt="01 UnifiedONE — security platform connecting Microsoft security signals, multi-vendor threat intelligence and cross-tenant knowledge. Vue, Vuetify, Docker." /></a>
+
+<a href="https://repair-service-admin.vercel.app/"><img src="assets/project-autoservice.svg" width="100%" alt="02 Auto service platform — admin platform for an auto service, frontend and API. Vue 3, Vuetify, Pinia, TypeScript, Node.js, Express, PostgreSQL, WebSocket, Docker." /></a>
+
+<a href="https://app.vibewaller.xyz/"><img src="assets/project-vibewaller.svg" width="100%" alt="03 Vibewaller — personal finance tracker with a Telegram bot. Vue 3, TypeScript, Tailwind CSS, Chart.js, TanStack Query, Supabase, Vitest, Docker." /></a>
+
+<img src="assets/experience.svg" width="100%" alt="Experience: Freelance (Apr 2025 – now), NDA startup (Jun 2025 – Apr 2026), NSOC360 via Quardex (Sep 2021 – Apr 2025), Quardex (Jul 2021 – Apr 2025)" />
+
+<img src="assets/stack.svg" width="100%" alt="Stack: Vue 3, Nuxt, React, Next.js, TypeScript, Pinia, Vuex, Vuetify, Quasar, Tailwind CSS, TanStack Query, Chart.js, AmCharts, WebSocket, Node.js, PostgreSQL, Supabase, Vite, Vitest, Docker, Git, CI/CD, Figma, Cursor, Claude Code, Codex" />
+
+<img src="assets/activity.svg" width="100%" alt="Activity" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <img src="assets/snake-light.svg" width="100%" alt="A cobalt snake eating my contribution graph" />
+</picture>
+
+<a href="mailto:hellokasko@gmail.com"><img src="assets/contact.svg" width="100%" alt="Let's build something. hellokasko@gmail.com" /></a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yurii-kasko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/KaskoYurii?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:hellokasko@gmail.com"><img src="assets/btn-email.svg" width="24%" alt="Email" /></a>
+  <a href="https://t.me/whoisyurii"><img src="assets/btn-telegram.svg" width="24%" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/yurii-kasko/"><img src="assets/btn-linkedin.svg" width="24%" alt="LinkedIn" /></a>
+  <a href="https://kasko-yurii.vercel.app/CV-Yurii_kasko.pdf"><img src="assets/btn-cv.svg" width="24%" alt="Download CV" /></a>
 </p>
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-FEDA4A?style=for-the-badge&logo=pinia&logoColor=black" />
-  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-</p>
-
-### 📊 Stats & Languages
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-    <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph with stats and top languages" />
-  </picture>
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-    <img src="assets/snake-light.svg" alt="Snake eating my contribution graph" />
-  </picture>
-</p>
-
-### 🚀 About Me
-
-- 💻 I build responsive, performant web apps
-- ⚡ Vue is home, with a bit of React on the side
-- 🌱 Currently going deeper into TypeScript
-- 🎸 Off the keyboard, I play guitar
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yurii-kasko)
-
-<p align="center"><sub>Images refresh daily via GitHub Actions</sub></p>
